@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hola, soy Fabián Barrios, Estadístico egresado de la Universidad de Córdoba (Colombia).<br><br>- 🔎 Me especializo en el análisis de datos aplicados a contextos reales en salud pública, medio ambiente y agricultura, con un enfoque en el diseño estadístico, la modelación y la visualización efectiva.<br>- 📊 Actualmente profundizo en aprendizaje automático, modelos estadísticos generalizados y análisis multivariado utilizando R, Python y herramientas de ciencia de datos.<br>- 🧩 Fuera del ámbito académico, participo en proyectos de investigación interdisciplinaria, exploro nuevos enfoques para el análisis reproducible y desarrollo visualizaciones que comunican resultados con claridad y rigor.</p>
+<p align="left">Hola, soy Fabián Barrios, Estadístico y vivo en Colombia.<br><br>- 🔎 Me especializo en el análisis de datos aplicados a contextos reales en salud pública, medio ambiente y agricultura, con un enfoque en el diseño estadístico, la modelación y la visualización efectiva.<br>- 📊 Actualmente profundizo en aprendizaje automático, modelos estadísticos generalizados y análisis multivariado utilizando R, Python y herramientas de ciencia de datos.<br>- 🧩 Fuera del ámbito académico, participo en proyectos de investigación interdisciplinaria, exploro nuevos enfoques para el análisis reproducible y desarrollo visualizaciones que comunican resultados con claridad y rigor.</p>
 
 ###
 
